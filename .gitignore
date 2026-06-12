@@ -12,6 +12,10 @@ dist
 dist-ssr
 *.local
 
+# Telerik / KendoReact license (keep secret)
+telerik-license.txt
+src/telerik-license.js
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
